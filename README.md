@@ -1,1 +1,2 @@
-# PROC25--CREATING-BOATS
+# PRO-C25-SA
+boilerplate code for student activituy
